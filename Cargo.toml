@@ -1,0 +1,8 @@
+[package]
+name = "portscrape"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+ipconfig = "0.3.2"
+netstat = "0.7.0"
